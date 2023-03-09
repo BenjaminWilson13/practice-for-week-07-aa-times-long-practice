@@ -1,1 +1,11 @@
-/* Your code here */
+
+.interests-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.interests-bar__images > img {
+    height: 50px;
+    width: 50px;
+}
